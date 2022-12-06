@@ -5,3 +5,5 @@ This a collection of Microsoft Excel macros written visual basic for application
 ##The portfolio consits of: 
 
  - Eye in the Sky: An automatic roster generator based of forecasted resort occupancy and revenue spend. The aim of the macro spreadsheet is to generate a labour force at the benchmark of the budgeted 30%. 
+
+## Usage
